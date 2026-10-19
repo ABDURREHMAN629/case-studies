@@ -34,7 +34,9 @@ Notes, checklists, colours, labels and reminders that work **without a calendar 
 
 Step counting that **refuses to count while you're riding** a bike or vehicle, GPS runs on offline maps, a 30-day home training plan, yoga, and posture and breathing exercises.
 
-[Source and APK](https://github.com/ABDURREHMAN629/AR-Stride/releases/latest)
+[![AR Stride demo](../../media/previews/ar-stride-demo.gif)](../../media/videos/ar-stride-demo.mp4)
+
+▶ [Download the demo video (MP4)](../../media/videos/ar-stride-demo.mp4) · [Source and APK](https://github.com/ABDURREHMAN629/AR-Stride/releases/latest)
 
 `Kotlin` `Jetpack Compose` `Activity recognition` `Offline maps`
 
@@ -44,7 +46,9 @@ Step counting that **refuses to count while you're riding** a bike or vehicle, G
 
 Live charging current in mA, watts, volts, temperature and battery health, per-app battery usage, and daily and hourly history charts. No root and no ads.
 
-[Source and APK](https://github.com/ABDURREHMAN629/voltcore/releases/latest)
+[![VoltCore demo](../../media/previews/voltcore-demo.gif)](../../media/videos/voltcore-demo.mp4)
+
+▶ [Download the demo video (MP4)](../../media/videos/voltcore-demo.mp4) · [Source and APK](https://github.com/ABDURREHMAN629/voltcore/releases/latest)
 
 `Kotlin` `Jetpack Compose` `SQLite`
 
@@ -54,7 +58,9 @@ Live charging current in mA, watts, volts, temperature and battery health, per-a
 
 Stops YouTube autoplay from repeating the same songs. It builds playlists of only songs you haven't heard (Punjabi, Hindi, any artist or genre) and plays them in your YouTube app with the screen off. No login and no API key.
 
-[Source and APK](https://github.com/ABDURREHMAN629/no-repeat-songs-youtube-autoplay/releases/latest)
+[![No Repeat Songs demo](../../media/previews/no-repeat-songs-demo.gif)](../../media/videos/no-repeat-songs-demo.mp4)
+
+▶ [Download the demo video (MP4)](../../media/videos/no-repeat-songs-demo.mp4) · [Source and APK](https://github.com/ABDURREHMAN629/no-repeat-songs-youtube-autoplay/releases/latest)
 
 `Kotlin` `Android`
 
@@ -63,5 +69,9 @@ Stops YouTube autoplay from repeating the same songs. It builds playlists of onl
 ## AR Reader: document reader
 
 Opens PDF, EPUB, Word, Excel, PowerPoint, comics and images, with themes and in-document search. Built-in tools: scan to PDF, draw on a PDF, compress and convert images, remove photo backgrounds. **The app has no internet permission**, so files never leave the phone.
+
+[![AR Reader demo](../../media/previews/ar-reader-demo.gif)](../../media/videos/ar-reader-demo.mp4)
+
+▶ [Download the demo video (MP4)](../../media/videos/ar-reader-demo.mp4)
 
 `Kotlin` `Jetpack Compose` `Material 3` `ML Kit`
