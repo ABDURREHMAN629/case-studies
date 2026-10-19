@@ -4,9 +4,9 @@
 
 [← All case studies](../../README.md)
 
-[![Watch the walkthrough](../../media/previews/textile-mill-erp-walkthrough.gif)](../../media/videos/textile-mill-erp-walkthrough.mp4)
+[![Watch the walkthrough](../../media/previews/textile-mill-erp-walkthrough.gif)](https://abdurrehman629.github.io/projects/textile-mill-erp/)
 
-▶ **[Watch the full 2-minute walkthrough (MP4)](../../media/videos/textile-mill-erp-walkthrough.mp4)**. It was recorded on a demo database, so every name and number is made up.
+▶ **[Watch the full 2-minute walkthrough](https://abdurrehman629.github.io/projects/textile-mill-erp/)** · [download MP4](../../media/videos/textile-mill-erp-walkthrough.mp4). It was recorded on a demo database, so every name and number is made up.
 
 ---
 

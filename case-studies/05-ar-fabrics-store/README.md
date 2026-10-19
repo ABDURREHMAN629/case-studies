@@ -4,9 +4,9 @@
 
 [← All case studies](../../README.md)
 
-[![AR Fabrics demo](../../media/previews/ar-fabrics-demo.gif)](../../media/videos/ar-fabrics-demo.mp4)
+[![AR Fabrics demo](../../media/previews/ar-fabrics-demo.gif)](https://abdurrehman629.github.io/projects/ar-fabrics-online-store/)
 
-▶ **[Watch the full demo (MP4, 1 min)](../../media/videos/ar-fabrics-demo.mp4)**
+▶ **[Watch the full demo](https://abdurrehman629.github.io/projects/ar-fabrics-online-store/)** · [download MP4](../../media/videos/ar-fabrics-demo.mp4)
 
 ## What it includes
 

@@ -4,9 +4,9 @@
 
 [← All case studies](../../README.md)
 
-[![ClotheBrand demo](../../media/previews/clothebrand-demo.gif)](../../media/videos/clothebrand-demo.mp4)
+[![ClotheBrand demo](../../media/previews/clothebrand-demo.gif)](https://abdurrehman629.github.io/projects/clothebrand-fashion-store/)
 
-▶ **[Watch the full demo (MP4, 40 s)](../../media/videos/clothebrand-demo.mp4)**
+▶ **[Watch the full demo](https://abdurrehman629.github.io/projects/clothebrand-fashion-store/)** · [download MP4](../../media/videos/clothebrand-demo.mp4)
 
 ## What it includes
 

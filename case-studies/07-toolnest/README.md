@@ -4,9 +4,9 @@
 
 [← All case studies](../../README.md)
 
-[![ToolNest demo](../../media/previews/toolnest-demo.gif)](../../media/videos/toolnest-demo.mp4)
+[![ToolNest demo](../../media/previews/toolnest-demo.gif)](https://abdurrehman629.github.io/projects/toolnest-online-tools/)
 
-▶ **[Watch the full demo (MP4, 1 min)](../../media/videos/toolnest-demo.mp4)**
+▶ **[Watch the full demo](https://abdurrehman629.github.io/projects/toolnest-online-tools/)** · [download MP4](../../media/videos/toolnest-demo.mp4)
 
 ## The idea
 

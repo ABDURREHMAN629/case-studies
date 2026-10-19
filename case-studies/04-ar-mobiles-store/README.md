@@ -4,9 +4,9 @@
 
 [← All case studies](../../README.md)
 
-[![AR Mobiles demo](../../media/previews/ar-mobiles-demo.gif)](../../media/videos/ar-mobiles-demo.mp4)
+[![AR Mobiles demo](../../media/previews/ar-mobiles-demo.gif)](https://abdurrehman629.github.io/projects/ar-mobiles-online-store/)
 
-▶ **[Watch the full demo (MP4, 1 min)](../../media/videos/ar-mobiles-demo.mp4)**
+▶ **[Watch the full demo](https://abdurrehman629.github.io/projects/ar-mobiles-online-store/)** · [download MP4](../../media/videos/ar-mobiles-demo.mp4)
 
 ## The problems a real accessories shop has
 

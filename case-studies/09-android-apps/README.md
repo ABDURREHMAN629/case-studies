@@ -10,9 +10,9 @@ Offline-first apps that keep the user's data on the phone. Each one is published
 
 For factory and daily-wage workers: enter the daily wage and overtime rate once, tap **P** for each day worked, and see totals for every 15-day period and the full month. English and Urdu, no internet needed, with backup and restore.
 
-[![AR Salary Tracker demo](../../media/previews/salary-tracker-demo.gif)](../../media/videos/salary-tracker-demo.mp4)
+[![AR Salary Tracker demo](../../media/previews/salary-tracker-demo.gif)](https://abdurrehman629.github.io/projects/ar-salary-tracker/)
 
-▶ [Watch the demo (MP4)](../../media/videos/salary-tracker-demo.mp4) · [Try it online](https://abdurrehman629.github.io/salary-tracker/) · [Source](https://github.com/ABDURREHMAN629/salary-tracker)
+▶ [Watch the demo](https://abdurrehman629.github.io/projects/ar-salary-tracker/) · [download MP4](../../media/videos/salary-tracker-demo.mp4) · [Try it online](https://abdurrehman629.github.io/salary-tracker/) · [Source](https://github.com/ABDURREHMAN629/salary-tracker)
 
 `JavaScript` `Android` `Offline-first`
 
@@ -22,9 +22,9 @@ For factory and daily-wage workers: enter the daily wage and overtime rate once,
 
 Notes, checklists, colours, labels and reminders that work **without a calendar app**. One-tap import of Google Keep notes from Google Takeout, five visual styles with light and dark mode, and backup and restore.
 
-[![AR Notes demo](../../media/previews/ar-notes-demo.gif)](../../media/videos/ar-notes-demo.mp4)
+[![AR Notes demo](../../media/previews/ar-notes-demo.gif)](https://abdurrehman629.github.io/projects/ar-notes-android/)
 
-▶ [Watch the demo (MP4)](../../media/videos/ar-notes-demo.mp4) · [Source and APK](https://github.com/ABDURREHMAN629/ar-notes-google-keep-alternative)
+▶ [Watch the demo](https://abdurrehman629.github.io/projects/ar-notes-android/) · [download MP4](../../media/videos/ar-notes-demo.mp4) · [Source and APK](https://github.com/ABDURREHMAN629/ar-notes-google-keep-alternative)
 
 `JavaScript` `Capacitor` `Android`
 

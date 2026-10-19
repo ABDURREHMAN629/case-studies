@@ -4,9 +4,9 @@
 
 [← All case studies](../../README.md)
 
-[![AR-Developer Mesh demo](../../media/previews/ar-mesh-demo.gif)](../../media/videos/ar-mesh-demo.mp4)
+[![AR-Developer Mesh demo](../../media/previews/ar-mesh-demo.gif)](https://abdurrehman629.github.io/projects/ar-developer-mesh-private-network/)
 
-▶ **[Watch the full demo (MP4, 1 min)](../../media/videos/ar-mesh-demo.mp4)**
+▶ **[Watch the full demo](https://abdurrehman629.github.io/projects/ar-developer-mesh-private-network/)** · [download MP4](../../media/videos/ar-mesh-demo.mp4)
 
 ## The problem
 
