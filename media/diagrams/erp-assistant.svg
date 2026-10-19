@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
+  </defs>
+  <rect width="1000" height="360" rx="16" fill="#ffffff"/>
+  <text x="40" y="52" font-size="24" font-weight="700" fill="#0f172a">ERP Assistant — from a question to the right answer</text>
+  <text x="40" y="80" font-size="14" fill="#64748b">Runs fully on the factory server · no business data sent to an outside AI service · works when the internet is down</text>
+
+  <g font-size="13" fill="#0f172a" text-anchor="middle">
+    <rect x="40" y="110" width="170" height="120" rx="12" fill="#eff6ff" stroke="#93c5fd"/>
+    <text x="125" y="138" font-weight="700" font-size="14">Staff ask</text>
+    <text x="125" y="164">typed or spoken</text>
+    <text x="125" y="196" font-style="italic" fill="#334155">"what is left to</text>
+    <text x="125" y="214" font-style="italic" fill="#334155">print on this lot?"</text>
+
+    <rect x="250" y="110" width="170" height="120" rx="12" fill="#f5f3ff" stroke="#c4b5fd"/>
+    <text x="335" y="138" font-weight="700" font-size="14">Understand</text>
+    <text x="335" y="164">custom NLU engine</text>
+    <text x="335" y="184">finds intent + lot / PO</text>
+    <text x="335" y="210" fill="#64748b" font-size="12">unsure → offers options,</text>
+    <text x="335" y="224" fill="#64748b" font-size="12">never guesses</text>
+
+    <rect x="460" y="110" width="170" height="120" rx="12" fill="#fef2f2" stroke="#fca5a5"/>
+    <text x="545" y="138" font-weight="700" font-size="14">Check access</text>
+    <text x="545" y="164">uses the asker's</text>
+    <text x="545" y="184">own login</text>
+    <text x="545" y="210" fill="#64748b" font-size="12">can never show more than</text>
+    <text x="545" y="224" fill="#64748b" font-size="12">that user could open</text>
+
+    <rect x="670" y="110" width="290" height="120" rx="12" fill="#f0fdf4" stroke="#86efac"/>
+    <text x="815" y="138" font-weight="700" font-size="14">Answer</text>
+    <text x="815" y="164">the same report the screen uses</text>
+    <text x="815" y="184">an explanation of a screen</text>
+    <text x="815" y="204">or a form pre-filled for a person</text>
+    <text x="815" y="222">to check and save</text>
+  </g>
+  <g stroke="#475569" stroke-width="2" marker-end="url(#a)">
+    <line x1="212" y1="170" x2="246" y2="170"/><line x1="422" y1="170" x2="456" y2="170"/><line x1="632" y1="170" x2="666" y2="170"/>
+  </g>
+  <rect x="40" y="260" width="920" height="70" rx="12" fill="#fffbeb" stroke="#fcd34d"/>
+  <text x="60" y="290" font-size="15" font-weight="700" fill="#92400e">It never writes to the database — a person always presses Save.</text>
+  <text x="60" y="314" font-size="13" fill="#78350f">Voice: the words it heard are shown in the chat, so a mishearing is visible before it becomes the wrong report.</text>
+</svg>

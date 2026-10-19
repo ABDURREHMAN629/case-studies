@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
+  </defs>
+  <rect width="1000" height="560" rx="16" fill="#ffffff"/>
+  <text x="40" y="52" font-size="24" font-weight="700" fill="#0f172a">Textile Mill ERP — one lot, every stage, every department at once</text>
+  <text x="40" y="80" font-size="14" fill="#64748b">45 screens · 79-table MySQL database · 31 API modules · runs on the factory LAN · office PCs, floor tablets, Android app</text>
+
+  <!-- lot flow -->
+  <g font-size="14" font-weight="600" fill="#0f172a" text-anchor="middle">
+    <rect x="40"  y="112" width="140" height="56" rx="10" fill="#eff6ff" stroke="#93c5fd"/><text x="110" y="145">Greige receipt</text>
+    <rect x="228" y="112" width="140" height="56" rx="10" fill="#eff6ff" stroke="#93c5fd"/><text x="298" y="145">Printing</text>
+    <rect x="416" y="112" width="140" height="56" rx="10" fill="#eff6ff" stroke="#93c5fd"/><text x="486" y="145">Dyeing</text>
+    <rect x="604" y="112" width="140" height="56" rx="10" fill="#eff6ff" stroke="#93c5fd"/><text x="674" y="145">Post-process</text>
+    <rect x="792" y="112" width="168" height="56" rx="10" fill="#eff6ff" stroke="#93c5fd"/><text x="876" y="145">Packing · Dispatch</text>
+  </g>
+  <g stroke="#475569" stroke-width="2" marker-end="url(#a)">
+    <line x1="182" y1="140" x2="224" y2="140"/><line x1="370" y1="140" x2="412" y2="140"/>
+    <line x1="558" y1="140" x2="600" y2="140"/><line x1="746" y1="140" x2="788" y2="140"/>
+  </g>
+  <text x="500" y="196" font-size="13" fill="#64748b" text-anchor="middle">every entry is tied to a lot → one screen shows where it is, how much is processed, rejected and shipped</text>
+
+  <!-- layers -->
+  <g font-size="13" fill="#0f172a">
+    <rect x="40" y="220" width="920" height="70" rx="12" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="60" y="248" font-size="15" font-weight="700">Browser front-end — React 19 + Vite</text>
+    <text x="60" y="272">Office PCs · tablet layouts for the floor · Android companion app · menu drawn from the user's own permission list</text>
+
+    <rect x="40" y="306" width="920" height="70" rx="12" fill="#f5f3ff" stroke="#c4b5fd"/>
+    <text x="60" y="334" font-size="15" font-weight="700">API — Node.js + Express (31 modules)</text>
+    <text x="60" y="358">Every request checked on the server against that user's screens · bcrypt passwords · audit record on every change</text>
+
+    <rect x="40" y="392" width="920" height="70" rx="12" fill="#f0fdf4" stroke="#86efac"/>
+    <text x="60" y="420" font-size="15" font-weight="700">MySQL — 79 tables</text>
+    <text x="60" y="444">Years of history migrated from Microsoft Access · many departments write at the same moment (no more single-user file lock)</text>
+  </g>
+
+  <!-- automation -->
+  <g font-size="13" fill="#0f172a" text-anchor="middle">
+    <rect x="40"  y="480" width="290" height="56" rx="10" fill="#fffbeb" stroke="#fcd34d"/>
+    <text x="185" y="503" font-weight="700">Reports that send themselves</text><text x="185" y="523">email twice a day · WhatsApp · Excel export</text>
+    <rect x="355" y="480" width="290" height="56" rx="10" fill="#fffbeb" stroke="#fcd34d"/>
+    <text x="500" y="503" font-weight="700">Backups that check themselves</text><text x="500" y="523">nightly · verified · off-site · 30-day retention</text>
+    <rect x="670" y="480" width="290" height="56" rx="10" fill="#fffbeb" stroke="#fcd34d"/>
+    <text x="815" y="503" font-weight="700">ERP Assistant</text><text x="815" y="523">ask by text or voice · runs on-site, no cloud AI</text>
+  </g>
+</svg>
